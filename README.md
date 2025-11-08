@@ -63,6 +63,9 @@ Each language folder mirrors the same conceptual organization for consistency an
 ### **1. Programming Fundamentals**
 - Syntax basics, variables, loops, functions, and conditionals  
 - Data types and user input handling  
+#### Question
+- total-moves-for-bishop: 1 
+- reverse-the-string: 
 
 ### **2. Data Structures**
 - Arrays, Linked Lists, Stacks, Queues, Trees, Graphs  
